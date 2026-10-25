@@ -1,4 +1,4 @@
-# Deskside Assist — deploy to Netlify
+# OmbudsShield AI — deploy to Netlify
 
 Two public URLs, no sign-in for the visitor, no API key in the browser.
 
@@ -45,7 +45,7 @@ https://<your-site>.netlify.app/case.html
 ```
 
 Rename the site under Site configuration → Change site name to get something
-like `deskside-assist.netlify.app`.
+like `ombudsshieldai.netlify.app`.
 
 ## Local test
 
